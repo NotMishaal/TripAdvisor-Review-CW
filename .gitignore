@@ -164,3 +164,6 @@ cython_debug/
 
 # jupyter
 .ipynb_checkpoints
+task_1/bpe.vocab
+task_1/bpe.model
+task_1/reviews.txt
