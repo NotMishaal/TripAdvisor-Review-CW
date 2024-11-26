@@ -25,7 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-*.csv
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -168,4 +168,5 @@ task_1/bpe.vocab
 task_1/bpe.model
 task_1/reviews.txt
 
-*.csv
+.csv
+.txt
