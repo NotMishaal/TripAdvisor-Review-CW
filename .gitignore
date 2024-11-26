@@ -167,3 +167,5 @@ cython_debug/
 task_1/bpe.vocab
 task_1/bpe.model
 task_1/reviews.txt
+
+*.csv
